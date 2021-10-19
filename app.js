@@ -9,15 +9,15 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 let songs = [
     {songName:"Pyaar tune kya kiya", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
-    {songName:"Raabta:Agent vinod",filePath:"songs/1.mp3",coverPath: "covers/1.jpg"},
-    {songName:"Sakhiyan 2",filePath:"songs/1.mp3",coverPath: "covers/1.jpg"},
-    {songName:"Lut gaye",filePath:"songs/1.mp3",coverPath: "covers/1.jpg"},
-    {songName:"Baarish ki jaye",filePath:"songs/1.mp3",coverPath: "covers/1.jpg"},
-    {songName:"Rim jhim",filePath:"songs/1.mp3",coverPath: "covers/1.jpg"},
-    {songName:"Dil ko karar aaya",filePath:"songs/1.mp3",coverPath: "covers/1.jpg"},
-    {songName:"Dil ne ye kaha ",filePath:"songs/1.mp3",coverPath: "covers/1.jpg"},
-    {songName:"Pyaar ki ek kahani",filePath:"songs/1.mp3",coverPath: "covers/1.jpg"},
-    {songName:"Teri ore",filePath:"songs/1.mp3",coverPath: "covers/1.jpg"},
+    {songName:"Raabta:Agent vinod",filePath:"songs/1.mp3",coverPath: "covers/2.jpg"},
+    {songName:"Sakhiyan 2",filePath:"songs/1.mp3",coverPath: "covers/3.jpg"},
+    {songName:"Lut gaye",filePath:"songs/1.mp3",coverPath: "covers/4.jpg"},
+    {songName:"Baarish ki jaye",filePath:"songs/1.mp3",coverPath: "covers/5.jpg"},
+    {songName:"Rim jhim",filePath:"songs/1.mp3",coverPath: "covers/6.jpg"},
+    {songName:"Dil ko karar aaya",filePath:"songs/1.mp3",coverPath: "covers/7.jpg"},
+    {songName:"Dil ne ye kaha ",filePath:"songs/1.mp3",coverPath: "covers/8.jpg"},
+    {songName:"Pyaar ki ek kahani",filePath:"songs/1.mp3",coverPath: "covers/9.jpg"},
+    {songName:"Teri ore",filePath:"songs/1.mp3",coverPath: "covers/10.jpg"},
 ]
 
 
