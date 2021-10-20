@@ -9,7 +9,7 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 let songs = [
     {songName:"Pyaar tune kya kiya", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
-    {songName:"Raabta:Agent vinod",filePath:"songs/1.mp3",coverPath: "covers/2.jpg"},
+    {songName:"Raabta",filePath:"songs/1.mp3",coverPath: "covers/2.jpg"},
     {songName:"Sakhiyan 2",filePath:"songs/1.mp3",coverPath: "covers/3.jpg"},
     {songName:"Lut gaye",filePath:"songs/1.mp3",coverPath: "covers/4.jpg"},
     {songName:"Baarish ki jaye",filePath:"songs/1.mp3",coverPath: "covers/5.jpg"},
